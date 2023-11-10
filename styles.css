@@ -1,0 +1,118 @@
+
+body{
+    background-color: rgba(251, 95, 95, 0.481);
+    justify-content: space-between;
+
+}
+
+header{
+    background-color: rgb(222, 40, 40);
+    color: aliceblue;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    border-radius: 40px;
+    width: 900px;
+    height: 220px;
+}
+
+
+#logo{
+    height: 70px;
+    width: 80px;
+    justify-content: center;
+}
+
+#navBar{
+    background-color: rgb(222, 40, 40);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: 10px;
+    color: white;
+    
+}
+
+#clone{
+    background-color: rgba(224, 68, 68, 0.369);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 100px auto;
+    
+}
+#Branch{
+    background-color: rgba(224, 68, 68, 0.369);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 100px auto;
+}
+#Commit{
+    background-color: rgba(224, 68, 68, 0.369);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 100px auto;
+}
+#Merge{
+    background-color: rgba(224, 68, 68, 0.369);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 100px auto;
+}
+#Pull{
+    background-color: rgba(224, 68, 68, 0.369);
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 100px auto;
+}
+
+h4{
+    color: white;
+}
+
+#navBar a {
+    text-decoration: none;
+    color: black ;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+    background-color: white;
+    border: solid;
+    border-radius: 5px;
+    
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgb(222, 40, 40);
+    margin-bottom: 0px;
+    display: flex;
+    height: 41px;
+    padding: 16px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    justify-content: center;
+    align-items: center;
+    }
+
